@@ -1,12 +1,13 @@
 import React from 'react';
 
-const NotFound = () => {
+const Error = () => {
     return (
         <div>
-            <h1>No match;</h1>
+            <h1>Error!</h1>
             <h2>404 not found</h2>
+
         </div>
     );
 };
 
-export default NotFound;
+export default Error;

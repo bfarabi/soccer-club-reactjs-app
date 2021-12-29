@@ -1,0 +1,19 @@
+.header-logo {
+    background-image: url(../../images/Photo/footballStd.jpg);  
+    height: 70vh;
+    max-width: 100%;
+    color: white;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+    
+  }
+  .header-name {
+    background: rgba(118, 118, 118, 0.537);
+    font-size: 50px;
+  }
